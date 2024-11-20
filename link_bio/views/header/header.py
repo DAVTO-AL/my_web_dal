@@ -34,7 +34,7 @@ def header() -> rx.Component:
                 ),
                 rx.box(
                     rx.text(
-                        "TE LA DEDICO MY LOVE",
+                        "pagina en mantenimineto*",
                         margin_top="-3px",
                         color=Color.PRIMARY.value,
                         text_align="center",
